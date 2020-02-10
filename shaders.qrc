@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mtriangle.vsh</file>
+        <file>mtriangle.fsh</file>
+    </qresource>
+</RCC>
